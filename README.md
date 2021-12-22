@@ -1,1 +1,0 @@
-# Bangolore-House-Price-Prediction
